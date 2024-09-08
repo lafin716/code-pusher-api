@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: code-pusher
+server:
+  port: 8080
+
+
